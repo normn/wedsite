@@ -38,7 +38,6 @@ DEFAULT_PAGINATION = False
 PLUGINS = [
   'sitemap',
   'neighbors',
-  'assets',
   'events'
 ]
 
