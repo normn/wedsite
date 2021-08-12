@@ -3,7 +3,7 @@
 
 AUTHOR = 'Zach Norman'
 SITENAME = 'Norman-Schuelke Matrimony'
-SITEURL = 'https://normn.github.io/wedsite/'
+SITEURL = ''
 THEME = 'theme/attila'
 HEADER_COVER = 'images/znh2.jpg'
 
