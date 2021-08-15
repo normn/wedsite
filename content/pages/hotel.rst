@@ -6,8 +6,8 @@ Hotel
 :slug: Hotel
 :status: published
 
-Event Info
-==========
+Local & Nearby Hotels
+=====================
 
 **Overview**
   Room and board is a three minute drive from the event. A discounted hotel block at the Doubletree by Hilton Saint Paul East can be found below.
@@ -21,4 +21,4 @@ Event Info
 
 **Reservation Link**
   `The Doubletree by Hilton Saint Paul East
-  <http://something>`_.
+  <https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=MSPSTDT&groupCode=CDTNWS&arrivaldate=2021-09-24&departuredate=2021-09-26&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT>`_.
