@@ -31,3 +31,5 @@ Event Info
   Guest safety is our tantamount mission with this event.
   COVID vaccinations are required for all attendees and are nascent to rsvp acceptance.
 
+**Vaccine Study for Children**
+  Minnesota parents wishing to vaccinate their 6 month to 11 year oldi children may find more information on how to do so at `TrialScope <https://connect.trialscope.com/studies/0e8fc8e6-5782-46fd-8b03-0994a5ad8b41>`.
