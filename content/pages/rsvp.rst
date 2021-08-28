@@ -13,3 +13,5 @@ RSVPs are being collected on a this
 <https://docs.google.com/forms/d/e/1FAIpQLSfNytHhF0rb9z84YR-fWsgPhv9qnAIW6I7PzGRHfDlQVykSYw/viewform?usp=sf_link>`_
 
 Only your 'group lead' needs to fill out the form.
+
+Send any problems or questions to rsvp@wed.nor.mn
