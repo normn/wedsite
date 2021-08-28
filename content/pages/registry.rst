@@ -12,7 +12,10 @@ Furniture for Life
 
 We have been blessed with so much and by all of you already. The only thing we can think to ask for on this union of our lives might be 'furniture for life'.
 
-If you wish to provide a gift, Room and Board offers gift card sales over the phone at 
+If you wish to provide a gift,
+`Room and Board
+<https://www.roomandboard.com/gift-cards>`_
+offers gift cards via telephone at
 `800.301.9720
 <tel:800-301-9720>`_
 and they may be mailed to the event location
