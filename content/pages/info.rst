@@ -17,7 +17,7 @@ Event Info
   September 25th, 2021
 
 **Time**
-  Sixteen Hundred Central Standard
+  Anytime between 1400 - 1600 CST but not later please
 
 **Location**
   `One Half Battle Creek Road

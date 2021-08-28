@@ -7,7 +7,6 @@ SITEURL = ''
 THEME = 'theme/attila'
 HEADER_COVER = 'images/znh2.jpg'
 
-PLUGIN_PATHS = ['plugins/pelican-plugins']
 
 PATH = 'content'
 
@@ -35,10 +34,13 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+PLUGIN_PATHS = ['plugins/pelican-plugins']
+
 PLUGINS = [
   'sitemap',
   'neighbors',
-  'events'
+  'assets',
+#  'events'
 ]
 
 PLUGIN_EVENTS = {
